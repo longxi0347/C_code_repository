@@ -1,0 +1,6 @@
+﻿  test.c
+D:\code\c\C_code_repository\code_23_11_16\code_23_11_16\test.c(29,21): warning C4013: “malloc”未定义；假设外部返回 int
+D:\code\c\C_code_repository\code_23_11_16\code_23_11_16\test.c(29,45): warning C4312: “类型强制转换”: 从“int”转换到更大的“int **”
+D:\code\c\C_code_repository\code_23_11_16\code_23_11_16\test.c(32,41): warning C4312: “类型强制转换”: 从“int”转换到更大的“int *”
+D:\code\c\C_code_repository\code_23_11_16\code_23_11_16\test.c(69,2): warning C4013: “free”未定义；假设外部返回 int
+  code_23_11_16.vcxproj -> D:\code\c\C_code_repository\code_23_11_16\x64\Debug\code_23_11_16.exe
