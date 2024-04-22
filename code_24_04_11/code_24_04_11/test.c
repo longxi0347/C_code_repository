@@ -144,6 +144,6 @@ int main()
 			T = 0;
 		}
 	}
-	printf("%lf", val);
+	printf("%.2lf", val);
 	return 0;
 }
